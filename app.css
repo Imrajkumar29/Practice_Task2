@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background: #f2e9e4;
+}
+h1#title{
+    font-family: 'Kolker Brush', cursive;
+    font-size: 5rem;
+    color:#22223B;
+}
+div#table1>table>thead{
+    background-color: #9A8C98;
+    color:white;
+    font-family: 'Noto Sans', sans-serif;
+}
+table#listofbooks{
+    border-color: #22223B;
+}
